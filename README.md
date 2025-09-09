@@ -59,5 +59,8 @@ This is a **React-based web application** for discovering, exploring, and joinin
 ---
 
 ## Author
+## Author
 **Yukta Mahajan**  
-[GitHub Repository](https://github.com/Yuktamahajan1999/Event_discovery)
+[GitHub Repository](https://github.com/Yuktamahajan1999/Event_discovery)  
+[Live Demo on Vercel]([https://event-discovery.vercel.app](https://event-discovery-henna.vercel.app/))
+
